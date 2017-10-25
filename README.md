@@ -1,2 +1,3 @@
 # LamQuenVoiGit
-lamf quen vois git
+Làm quen với git
+
